@@ -25,11 +25,11 @@ int main ( int argc, char *argv[] )
 //
 //  Modified:
 //
-//    13 March 2004
+//    23 February 2018
 //
 //  Author:
 //
-//    John Burkardt
+//    Mehmet GÜL
 //
 {
   cout << "\n";
