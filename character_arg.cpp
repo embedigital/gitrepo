@@ -23,11 +23,11 @@ int main ( )
 //
 //  Modified:
 //
-//    25 May 2013
+//    23 FEB 2018
 //
 //  Author:
 //
-//    John Burkardt
+//    Mehmet GÜL
 //
 {
   string name;
